@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"name": "admin",
+			"path": "../admin"
+		},
+		{
+			"name": "authentication",
+			"path": "../authentication"
+		},
+		{
+			"name": "corephpfiles",
+			"path": "../corephpfiles"
+		},
+		{
+			"name": "css",
+			"path": "."
+		},
+		{
+			"name": "includes",
+			"path": "../includes"
+		},
+		{
+			"name": "postsmanagement",
+			"path": "../postsmanagement"
+		},
+		{
+			"name": "templates",
+			"path": "../templates"
+		},
+		{
+			"name": "uploads",
+			"path": "../uploads"
+		},
+		{
+			"name": "vendor",
+			"path": "../vendor"
+		}
+	]
+}
