@@ -1,1 +1,1 @@
-# GW---COMP-1841-Web-Programming-1-RS
+# COMP-1841---Web-Programming-1-Coursework.
